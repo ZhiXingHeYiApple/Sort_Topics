@@ -1,0 +1,410 @@
+第0次冒泡排序:
+         Time:    55.9222 seconds
+第0次直接选择排序:
+         Time:    17.9517 seconds
+第0次插入排序:
+         Time:    13.9873 seconds
+第0次希尔排序:
+         Time:    0.153092 seconds
+第0次归并排序:
+         Time:    1.88483 seconds
+第0次快速排序:
+         Time:    0.02553 seconds
+第0次堆排序:
+         Time:    0.04741 seconds
+第0次比较计数排序:
+         Time:    56.2816 seconds
+第0次分布计数排序:
+         Time:    0.003704 seconds
+第0次STL排序:
+         Time:    0.006438 seconds
+第1次冒泡排序:
+         Time:    54.857 seconds
+第1次直接选择排序:
+         Time:    17.8032 seconds
+第1次插入排序:
+         Time:    13.5838 seconds
+第1次希尔排序:
+         Time:    0.154534 seconds
+第1次归并排序:
+         Time:    1.55458 seconds
+第1次快速排序:
+         Time:    0.025309 seconds
+第1次堆排序:
+         Time:    0.04982 seconds
+第1次比较计数排序:
+         Time:    56.3904 seconds
+第1次分布计数排序:
+         Time:    0.00371 seconds
+第1次STL排序:
+         Time:    0.006524 seconds
+第2次冒泡排序:
+         Time:    55.3424 seconds
+第2次直接选择排序:
+         Time:    18.257 seconds
+第2次插入排序:
+         Time:    13.873 seconds
+第2次希尔排序:
+         Time:    0.159941 seconds
+第2次归并排序:
+         Time:    1.6157 seconds
+第2次快速排序:
+         Time:    0.024576 seconds
+第2次堆排序:
+         Time:    0.045247 seconds
+第2次比较计数排序:
+         Time:    57.0433 seconds
+第2次分布计数排序:
+         Time:    0.003205 seconds
+第2次STL排序:
+         Time:    0.006966 seconds
+第3次冒泡排序:
+         Time:    55.491 seconds
+第3次直接选择排序:
+         Time:    17.8847 seconds
+第3次插入排序:
+         Time:    13.5533 seconds
+第3次希尔排序:
+         Time:    0.150691 seconds
+第3次归并排序:
+         Time:    1.55907 seconds
+第3次快速排序:
+         Time:    0.024183 seconds
+第3次堆排序:
+         Time:    0.047824 seconds
+第3次比较计数排序:
+         Time:    56.4841 seconds
+第3次分布计数排序:
+         Time:    0.003019 seconds
+第3次STL排序:
+         Time:    0.006894 seconds
+第4次冒泡排序:
+         Time:    55.3073 seconds
+第4次直接选择排序:
+         Time:    18.0093 seconds
+第4次插入排序:
+         Time:    13.789 seconds
+第4次希尔排序:
+         Time:    0.164661 seconds
+第4次归并排序:
+         Time:    1.56868 seconds
+第4次快速排序:
+         Time:    0.023517 seconds
+第4次堆排序:
+         Time:    0.049299 seconds
+第4次比较计数排序:
+         Time:    56.7399 seconds
+第4次分布计数排序:
+         Time:    0.003457 seconds
+第4次STL排序:
+         Time:    0.006664 seconds
+第5次冒泡排序:
+         Time:    55.6343 seconds
+第5次直接选择排序:
+         Time:    17.9804 seconds
+第5次插入排序:
+         Time:    13.8407 seconds
+第5次希尔排序:
+         Time:    0.158095 seconds
+第5次归并排序:
+         Time:    1.58088 seconds
+第5次快速排序:
+         Time:    0.025888 seconds
+第5次堆排序:
+         Time:    0.051969 seconds
+第5次比较计数排序:
+         Time:    57.1015 seconds
+第5次分布计数排序:
+         Time:    0.003253 seconds
+第5次STL排序:
+         Time:    0.00656 seconds
+第6次冒泡排序:
+         Time:    55.437 seconds
+第6次直接选择排序:
+         Time:    17.886 seconds
+第6次插入排序:
+         Time:    13.917 seconds
+第6次希尔排序:
+         Time:    0.153497 seconds
+第6次归并排序:
+         Time:    1.52476 seconds
+第6次快速排序:
+         Time:    0.024694 seconds
+第6次堆排序:
+         Time:    0.048858 seconds
+第6次比较计数排序:
+         Time:    56.6223 seconds
+第6次分布计数排序:
+         Time:    0.00372 seconds
+第6次STL排序:
+         Time:    0.006477 seconds
+第7次冒泡排序:
+         Time:    55.5877 seconds
+第7次直接选择排序:
+         Time:    18.8665 seconds
+第7次插入排序:
+         Time:    14.968 seconds
+第7次希尔排序:
+         Time:    0.17499 seconds
+第7次归并排序:
+         Time:    1.71181 seconds
+第7次快速排序:
+         Time:    0.024792 seconds
+第7次堆排序:
+         Time:    0.055231 seconds
+第7次比较计数排序:
+         Time:    58.2922 seconds
+第7次分布计数排序:
+         Time:    0.003014 seconds
+第7次STL排序:
+         Time:    0.006773 seconds
+第8次冒泡排序:
+         Time:    54.7153 seconds
+第8次直接选择排序:
+         Time:    17.9264 seconds
+第8次插入排序:
+         Time:    13.7928 seconds
+第8次希尔排序:
+         Time:    0.15441 seconds
+第8次归并排序:
+         Time:    1.53488 seconds
+第8次快速排序:
+         Time:    0.023664 seconds
+第8次堆排序:
+         Time:    0.051949 seconds
+第8次比较计数排序:
+         Time:    56.6177 seconds
+第8次分布计数排序:
+         Time:    0.003264 seconds
+第8次STL排序:
+         Time:    0.006552 seconds
+第9次冒泡排序:
+         Time:    55.2077 seconds
+第9次直接选择排序:
+         Time:    17.7936 seconds
+第9次插入排序:
+         Time:    13.7975 seconds
+第9次希尔排序:
+         Time:    0.159242 seconds
+第9次归并排序:
+         Time:    1.61628 seconds
+第9次快速排序:
+         Time:    0.024927 seconds
+第9次堆排序:
+         Time:    0.050606 seconds
+第9次比较计数排序:
+         Time:    56.3587 seconds
+第9次分布计数排序:
+         Time:    0.003005 seconds
+第9次STL排序:
+         Time:    0.006443 seconds
+第10次冒泡排序:
+         Time:    54.1402 seconds
+第10次直接选择排序:
+         Time:    17.6169 seconds
+第10次插入排序:
+         Time:    13.637 seconds
+第10次希尔排序:
+         Time:    0.155255 seconds
+第10次归并排序:
+         Time:    1.61701 seconds
+第10次快速排序:
+         Time:    0.025142 seconds
+第10次堆排序:
+         Time:    0.046138 seconds
+第10次比较计数排序:
+         Time:    56.4525 seconds
+第10次分布计数排序:
+         Time:    0.003025 seconds
+第10次STL排序:
+         Time:    0.006835 seconds
+第11次冒泡排序:
+         Time:    55.28 seconds
+第11次直接选择排序:
+         Time:    17.7797 seconds
+第11次插入排序:
+         Time:    13.7641 seconds
+第11次希尔排序:
+         Time:    0.170851 seconds
+第11次归并排序:
+         Time:    1.54005 seconds
+第11次快速排序:
+         Time:    0.023118 seconds
+第11次堆排序:
+         Time:    0.049915 seconds
+第11次比较计数排序:
+         Time:    56.588 seconds
+第11次分布计数排序:
+         Time:    0.003163 seconds
+第11次STL排序:
+         Time:    0.006609 seconds
+第12次冒泡排序:
+         Time:    55.3575 seconds
+第12次直接选择排序:
+         Time:    17.985 seconds
+第12次插入排序:
+         Time:    13.9548 seconds
+第12次希尔排序:
+         Time:    0.162888 seconds
+第12次归并排序:
+         Time:    1.57717 seconds
+第12次快速排序:
+         Time:    0.024167 seconds
+第12次堆排序:
+         Time:    0.048267 seconds
+第12次比较计数排序:
+         Time:    56.6432 seconds
+第12次分布计数排序:
+         Time:    0.003068 seconds
+第12次STL排序:
+         Time:    0.006537 seconds
+第13次冒泡排序:
+         Time:    55.6933 seconds
+第13次直接选择排序:
+         Time:    17.9736 seconds
+第13次插入排序:
+         Time:    13.8516 seconds
+第13次希尔排序:
+         Time:    0.158035 seconds
+第13次归并排序:
+         Time:    1.65242 seconds
+第13次快速排序:
+         Time:    0.02473 seconds
+第13次堆排序:
+         Time:    0.049477 seconds
+第13次比较计数排序:
+         Time:    56.8077 seconds
+第13次分布计数排序:
+         Time:    0.00419 seconds
+第13次STL排序:
+         Time:    0.006806 seconds
+第14次冒泡排序:
+         Time:    55.3541 seconds
+第14次直接选择排序:
+         Time:    17.5571 seconds
+第14次插入排序:
+         Time:    13.6066 seconds
+第14次希尔排序:
+         Time:    0.147258 seconds
+第14次归并排序:
+         Time:    1.54172 seconds
+第14次快速排序:
+         Time:    0.027269 seconds
+第14次堆排序:
+         Time:    0.045569 seconds
+第14次比较计数排序:
+         Time:    56.3892 seconds
+第14次分布计数排序:
+         Time:    0.003256 seconds
+第14次STL排序:
+         Time:    0.007219 seconds
+第15次冒泡排序:
+         Time:    55.611 seconds
+第15次直接选择排序:
+         Time:    17.9025 seconds
+第15次插入排序:
+         Time:    13.7522 seconds
+第15次希尔排序:
+         Time:    0.148728 seconds
+第15次归并排序:
+         Time:    1.53035 seconds
+第15次快速排序:
+         Time:    0.026067 seconds
+第15次堆排序:
+         Time:    0.045482 seconds
+第15次比较计数排序:
+         Time:    55.5333 seconds
+第15次分布计数排序:
+         Time:    0.003733 seconds
+第15次STL排序:
+         Time:    0.006624 seconds
+第16次冒泡排序:
+         Time:    55.5404 seconds
+第16次直接选择排序:
+         Time:    17.8043 seconds
+第16次插入排序:
+         Time:    13.8657 seconds
+第16次希尔排序:
+         Time:    0.155817 seconds
+第16次归并排序:
+         Time:    1.56023 seconds
+第16次快速排序:
+         Time:    0.025141 seconds
+第16次堆排序:
+         Time:    0.045619 seconds
+第16次比较计数排序:
+         Time:    56.8037 seconds
+第16次分布计数排序:
+         Time:    0.00305 seconds
+第16次STL排序:
+         Time:    0.006961 seconds
+第17次冒泡排序:
+         Time:    54.695 seconds
+第17次直接选择排序:
+         Time:    17.6881 seconds
+第17次插入排序:
+         Time:    13.7167 seconds
+第17次希尔排序:
+         Time:    0.166955 seconds
+第17次归并排序:
+         Time:    1.59013 seconds
+第17次快速排序:
+         Time:    0.025698 seconds
+第17次堆排序:
+         Time:    0.051992 seconds
+第17次比较计数排序:
+         Time:    56.7116 seconds
+第17次分布计数排序:
+         Time:    0.004062 seconds
+第17次STL排序:
+         Time:    0.006867 seconds
+第18次冒泡排序:
+         Time:    55.3532 seconds
+第18次直接选择排序:
+         Time:    17.8068 seconds
+第18次插入排序:
+         Time:    13.8302 seconds
+第18次希尔排序:
+         Time:    0.156284 seconds
+第18次归并排序:
+         Time:    1.61332 seconds
+第18次快速排序:
+         Time:    0.027407 seconds
+第18次堆排序:
+         Time:    0.04904 seconds
+第18次比较计数排序:
+         Time:    56.6461 seconds
+第18次分布计数排序:
+         Time:    0.003029 seconds
+第18次STL排序:
+         Time:    0.006478 seconds
+第19次冒泡排序:
+         Time:    55.2473 seconds
+第19次直接选择排序:
+         Time:    17.8924 seconds
+第19次插入排序:
+         Time:    13.7727 seconds
+第19次希尔排序:
+         Time:    0.15977 seconds
+第19次归并排序:
+         Time:    1.56973 seconds
+第19次快速排序:
+         Time:    0.025931 seconds
+第19次堆排序:
+         Time:    0.04749 seconds
+第19次比较计数排序:
+         Time:    55.6743 seconds
+第19次分布计数排序:
+         Time:    0.003246 seconds
+第19次STL排序:
+         Time:    0.006951 seconds
+冒泡排序的平均时间为： 55.2887 seconds
+选择排序的平均时间为： 17.9182 seconds
+插入排序的平均时间为： 13.8427 seconds
+希尔排序的平均时间为： 0.15825 seconds
+归并排序的平均时间为： 1.59718 seconds
+快速排序的平均时间为： 0.0250875 seconds
+堆排序的平均时间为： 0.0488601 seconds
+比较计数排序的平均时间为： 56.6091 seconds
+分布计数排序的平均时间为： 0.00335865 seconds
+STL库排序的平均时间为： 0.0067089 seconds
